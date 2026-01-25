@@ -1,0 +1,36 @@
+{
+  "status": "success",
+  "scenes": [
+    {
+      "scene_number": 1,
+      "duration_seconds": 6,
+      "visual_description": "The camera pans across a busy street as a young boy in a backpack is seen approaching the entrance o",
+      "narration_text": "Narration for scene 1"
+    },
+    {
+      "scene_number": 2,
+      "duration_seconds": 6,
+      "visual_description": "Inside the classroom, students are seated at their desks, engaged in various activities like reading",
+      "narration_text": "Narration for scene 2"
+    },
+    {
+      "scene_number": 3,
+      "duration_seconds": 6,
+      "visual_description": "Outside on the playground, the boy is seen playing basketball with friends. He leaps high into the a",
+      "narration_text": "Narration for scene 3"
+    },
+    {
+      "scene_number": 4,
+      "duration_seconds": 6,
+      "visual_description": "As the boy walks home from school, he passes by his parents' house where he puts down his backpack b",
+      "narration_text": "Narration for scene 4"
+    },
+    {
+      "scene_number": 5,
+      "duration_seconds": 6,
+      "visual_description": "Finally arriving at his house, the camera focuses on a joyful reunion as the boy hugs and kisses his",
+      "narration_text": "Narration for scene 5"
+    }
+  ],
+  "total_duration": 30
+}

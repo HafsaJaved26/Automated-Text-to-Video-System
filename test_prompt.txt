@@ -1,0 +1,7 @@
+Break this story into 3 scenes:
+A farmer finds a magic seed. He plants it. A giant tree grows.
+
+Format:
+Scene 1: [description]
+Scene 2: [description]
+Scene 3: [description]

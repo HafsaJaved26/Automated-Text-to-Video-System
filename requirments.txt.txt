@@ -1,0 +1,5 @@
+# This system uses Ollama which must be installed separately
+# Download from: https://ollama.com
+# Then run: ollama pull qwen2.5:1.5b
+
+# No Python packages needed for subprocess method
