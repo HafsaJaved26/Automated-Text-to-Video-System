@@ -1,0 +1,36 @@
+{
+  "status": "success",
+  "scenes": [
+    {
+      "scene_number": 1,
+      "duration_seconds": 6,
+      "visual_description": "The camera shows a young boy waking up in his bedroom, stretching and yawning, with sunlight coming through the window and a glass of juice on the night table.",
+      "narration_text": "The boy starts his morning routine, stretching and preparing for a fresh day."
+    },
+    {
+      "scene_number": 2,
+      "duration_seconds": 6,
+      "visual_description": "The boy eats a quick breakfast while washing his face at the sink, then grabs his backpack from the table and checks his headphones.",
+      "narration_text": "He finishes breakfast, packs his bag, and gets ready to leave for school."
+    },
+    {
+      "scene_number": 3,
+      "duration_seconds": 6,
+      "visual_description": "Outside, the boy walks briskly on a busy street towards the school entrance, passing other students and parents.",
+      "narration_text": "He heads to school, moving confidently through the morning crowd."
+    },
+    {
+      "scene_number": 4,
+      "duration_seconds": 6,
+      "visual_description": "Inside the classroom, the boy sits at his desk, looking around as students settle in, some reading books and others talking quietly.",
+      "narration_text": "At school, he joins his classmates and begins his learning activities."
+    },
+    {
+      "scene_number": 5,
+      "duration_seconds": 6,
+      "visual_description": "After school, the boy walks home, passes by his parents’ house, and finally arrives at his own home where he hugs his family happily.",
+      "narration_text": "The day ends with a joyful reunion at home as he returns from school."
+    }
+  ],
+  "total_duration": 30
+}
