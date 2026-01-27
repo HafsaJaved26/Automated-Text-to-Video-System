@@ -4,32 +4,176 @@
     {
       "scene_number": 1,
       "duration_seconds": 6,
-      "visual_description": "The camera shows a young boy waking up in his bedroom, stretching and yawning, with sunlight coming through the window and a glass of juice on the night table.",
-      "narration_text": "The boy starts his morning routine, stretching and preparing for a fresh day."
+      "visual_description": "A sunny park with green grass and trees",
+      "narration_text": "On a bright morning, Ali arrived at the park."
     },
     {
       "scene_number": 2,
       "duration_seconds": 6,
-      "visual_description": "The boy eats a quick breakfast while washing his face at the sink, then grabs his backpack from the table and checks his headphones.",
-      "narration_text": "He finishes breakfast, packs his bag, and gets ready to leave for school."
+      "visual_description": "A young boy wearing a red shirt holding a blue kite",
+      "narration_text": "Ali held his kite as the gentle wind began to blow."
     },
     {
       "scene_number": 3,
       "duration_seconds": 6,
-      "visual_description": "Outside, the boy walks briskly on a busy street towards the school entrance, passing other students and parents.",
-      "narration_text": "He heads to school, moving confidently through the morning crowd."
+      "visual_description": "Boy running across the park while flying a kite",
+      "narration_text": "He ran happily as the kite flew higher in the sky."
     },
     {
       "scene_number": 4,
       "duration_seconds": 6,
-      "visual_description": "Inside the classroom, the boy sits at his desk, looking around as students settle in, some reading books and others talking quietly.",
-      "narration_text": "At school, he joins his classmates and begins his learning activities."
+      "visual_description": "Close-up view of a blue kite moving against a clear sky",
+      "narration_text": "The kite danced freely in the warm breeze."
     },
     {
       "scene_number": 5,
       "duration_seconds": 6,
-      "visual_description": "After school, the boy walks home, passes by his parents’ house, and finally arrives at his own home where he hugs his family happily.",
-      "narration_text": "The day ends with a joyful reunion at home as he returns from school."
+      "visual_description": "Boy smiling and looking up at the sky in the park",
+      "narration_text": "Ali smiled with joy, enjoying every moment."
+    }
+  ],
+  "total_duration": 30
+}
+{
+  "status": "success",
+  "scenes": [
+    {
+      "scene_number": 1,
+      "duration_seconds": 6,
+      "visual_description": "A quiet bedroom with a desk lamp turned on at night",
+      "narration_text": "Late at night, a young girl sat quietly at her desk."
+    },
+    {
+      "scene_number": 2,
+      "duration_seconds": 6,
+      "visual_description": "Girl reading a book and taking notes",
+      "narration_text": "She focused deeply on her studies, determined to succeed."
+    },
+    {
+      "scene_number": 3,
+      "duration_seconds": 6,
+      "visual_description": "Clock showing late hours of the night",
+      "narration_text": "Time passed, but her determination never faded."
+    },
+    {
+      "scene_number": 4,
+      "duration_seconds": 6,
+      "visual_description": "Girl yawning but continuing to study",
+      "narration_text": "Even when tired, she refused to give up."
+    },
+    {
+      "scene_number": 5,
+      "duration_seconds": 6,
+      "visual_description": "Morning sunlight entering the room as the girl smiles",
+      "narration_text": "As morning arrived, she smiled with hope and confidence."
+    }
+  ],
+  "total_duration": 30
+}
+{
+  "status": "success",
+  "scenes": [
+    {
+      "scene_number": 1,
+      "duration_seconds": 6,
+      "visual_description": "A tall mountain under a blue sky",
+      "narration_text": "A tall mountain stood proudly against the sky."
+    },
+    {
+      "scene_number": 2,
+      "duration_seconds": 6,
+      "visual_description": "A man hiking up a rocky trail",
+      "narration_text": "A man began his challenging climb toward the top."
+    },
+    {
+      "scene_number": 3,
+      "duration_seconds": 6,
+      "visual_description": "Man climbing with effort and determination",
+      "narration_text": "Each step tested his strength and patience."
+    },
+    {
+      "scene_number": 4,
+      "duration_seconds": 6,
+      "visual_description": "Man reaching the mountain peak",
+      "narration_text": "Finally, he reached the summit."
+    },
+    {
+      "scene_number": 5,
+      "duration_seconds": 6,
+      "visual_description": "Man standing on the peak looking at the view",
+      "narration_text": "He felt proud as he looked over the world below."
+    }
+  ],
+  "total_duration": 30
+}
+{
+  "status": "success",
+  "scenes": [
+    {
+      "scene_number": 1,
+      "duration_seconds": 6,
+      "visual_description": "A cloudy city street with buildings",
+      "narration_text": "The city looked dull under heavy clouds."
+    },
+    {
+      "scene_number": 2,
+      "duration_seconds": 6,
+      "visual_description": "Raindrops falling on the street",
+      "narration_text": "Soon, rain began to fall softly."
+    },
+    {
+      "scene_number": 3,
+      "duration_seconds": 6,
+      "visual_description": "People walking with umbrellas in the rain",
+      "narration_text": "People moved through the streets with colorful umbrellas."
+    },
+    {
+      "scene_number": 4,
+      "duration_seconds": 6,
+      "visual_description": "Rain reflections on the road lights",
+      "narration_text": "Lights reflected beautifully on the wet roads."
+    },
+    {
+      "scene_number": 5,
+      "duration_seconds": 6,
+      "visual_description": "City glowing after the rain",
+      "narration_text": "The rain transformed the city into something magical."
+    }
+  ],
+  "total_duration": 30
+}
+{
+  "status": "success",
+  "scenes": [
+    {
+      "scene_number": 1,
+      "duration_seconds": 6,
+      "visual_description": "A small child walking alone",
+      "narration_text": "A young child walked quietly down the street."
+    },
+    {
+      "scene_number": 2,
+      "duration_seconds": 6,
+      "visual_description": "Child noticing another child looking sad",
+      "narration_text": "He noticed another child sitting sadly nearby."
+    },
+    {
+      "scene_number": 3,
+      "duration_seconds": 6,
+      "visual_description": "Child offering a helping hand",
+      "narration_text": "Without hesitation, he offered help."
+    },
+    {
+      "scene_number": 4,
+      "duration_seconds": 6,
+      "visual_description": "Two children smiling together",
+      "narration_text": "Their smiles showed the power of kindness."
+    },
+    {
+      "scene_number": 5,
+      "duration_seconds": 6,
+      "visual_description": "Children walking away happily",
+      "narration_text": "The child learned that kindness makes everyone happier."
     }
   ],
   "total_duration": 30
