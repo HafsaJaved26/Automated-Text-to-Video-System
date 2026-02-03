@@ -205,3 +205,4 @@ VISUAL QUALITY
 - No aspect ratio distortion
 - Clean fade-in and fade-out transitions
 - Suitable for narration and background music
+
