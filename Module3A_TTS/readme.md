@@ -79,20 +79,9 @@ AUDIO QUALITY
 - Suitable for narration and storytelling
 
 
-PIPELINE INTEGRATION
-- Module 1 : Story breakdown and scene structuring
-- Module 2 : Image generation
-- Module 3 : Video generation
-- Module 4 : TTS Audio Generation (This Module)
-- Module 5 : Final video assembly and synchronization
-
 
 LIMITATIONS
 - Requires active internet connection
 - Fixed voice unless manually changed
 - Sequential generation (not parallelized)
 
-
-PROJECT STATUS
-- Completed and stable
-- Ready for integration with video pipeline
