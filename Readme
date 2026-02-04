@@ -1,0 +1,50 @@
+# Automated Text-to-Video System – Module 4B (Subtitles, Polish & Documentation)
+
+## Contributor
+
+**Afia Noor**
+Role: Subtitles, Polish & Documentation (Module 4B)
+
+## Overview
+
+This module focuses on improving the final video quality by adding subtitles, title/end screens, and preparing professional documentation. The goal is to ensure the generated videos are clear, presentable, and submission-ready.
+
+## Features Implemented
+
+* Automatic subtitles synchronized with narration text
+* Styled subtitles (font, color, stroke for readability)
+* Title screen (Story 1)
+* End screen (Thanks for Watching)
+* Final video rendering using MoviePy
+
+## Sample Videos
+
+* Exactly **3 sample videos** created
+* Each video ~30 seconds
+* Each includes subtitles, title screen, and end screen
+
+## How to Run
+
+```bash
+python add_subtitles.py
+```
+
+Ensure the following folders exist:
+
+* `input_videos/`
+* `output_videos/`
+
+## Folder Structure
+
+```
+subtitle_project/
+│── add_subtitles.py
+│── fixed_scene_data.json
+│── requirements.txt
+│── input_videos/
+│── output_videos/
+```
+
+## Output
+
+Final video is generated inside `output_videos/` with subtitles and polish applied.
